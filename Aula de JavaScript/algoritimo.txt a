@@ -1,0 +1,50 @@
+
+     Algoritimo de soma
+             var N1;
+             var N2;
+       
+     Algoritimo
+		entrada:
+			receber n1;
+			receber n2;
+      		processamento:
+			var soma = N1 + N2;
+		saida:
+			var resultado = soma;
+			mostrar resultado
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Algoritimo  de Conversão
+Variaveis
+	var dolar;
+	var real;
+	var conversao;
+Algoritimo
+	entrada
+		receber dolar
+		receber real
+	processamento
+		conversao = real * dolar;
+	saida
+		mostrar conversao
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Escreva um programa que leia o valor em metros e exiba convertido em centimetros.
+
+Algoritimo metros para centimetros
+Variaveis
+	var metros;
+	var cm;
+	
+Algoritimo
+	entrada:
+		receber metros;
+	processamento
+		cm = metros * 100
+	saida
+		mostrar cm;

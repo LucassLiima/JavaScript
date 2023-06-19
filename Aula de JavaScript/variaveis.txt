@@ -1,0 +1,17 @@
+Variáveis
+
+	var b;
+	var b;
+	b =7
+	b =8
+	
+	let
+	const
+
+Let
+Não pode ser redeclarada
+Devem ser declaradas antes do uso
+
+Const
+Não podem ser redeclaradas
+Não podem ser reatribuidas
